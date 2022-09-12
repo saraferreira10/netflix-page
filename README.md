@@ -25,9 +25,8 @@
 
 <br><br>
 
-<h2 align="center">:exclamation: Falta adicionar</h2>
-- ``Responsividade
-- ``
+<h2 align="center">:exclamation: Falta adicionar:</h2>
+- ``Responsividade``
 <br><br>
 
 <h2 align="center">:computer: Você pode visualizar o projeto em:</h2>
